@@ -1193,9 +1193,7 @@ position: relative;
         display: flex;
         flex-direction: column;
     }
-    .page {
-            padding-top: 16px;
-    }
+
     .site-nav {
             display: flex;
             align-items: center;
