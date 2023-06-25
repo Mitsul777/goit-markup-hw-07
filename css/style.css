@@ -255,7 +255,7 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     .menu-link-mobile:hover{color: var(--Pressed-state);}
     .menu-link-mobile:focus{color: var(--Pressed-state);}
     
-    .current{color:var(--Pressed-state);}
+    /* .current{color:var(--Pressed-state);} */
     
     .address-list-mobile{
         display: flex;
@@ -1335,6 +1335,8 @@ position: relative;
     color: var(--dark-text-color);
     position: relative;
 }
+.current{color:var(--Pressed-state);}
+
 .site-nav .link:hover, 
 .site-nav .link:focus {
     color: #404bbf;
