@@ -146,6 +146,7 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
         align-items: center;
         justify-content: space-between;
         padding-top: 24px;
+        padding-bottom: 24px;
 }
 
 .mobile-menu-open__icon{
